@@ -3,5 +3,5 @@
 # reason: slow
 # Starting up an EKS cluster is a slow process, tests can take 40 minutes
 unsupported
-
+slow
 cloud/aws

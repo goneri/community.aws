@@ -1,7 +1,6 @@
 # reason: slow
 # Tests take around 15 minutes to run
-unsupported
-
+slow
 cloud/aws
 
 ecs_service_info
